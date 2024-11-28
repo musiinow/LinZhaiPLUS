@@ -1,0 +1,40 @@
+seq,車站編號,車站中文名稱,車站英文名稱,Latitude,Longitude
+1,R3,小港,Siaogang,22.56481191,120.3538521
+2,R4,高雄國際機場,Kaohsiung International Airport,22.57011232,120.3421469
+3,R4A,草衙,Caoya,22.58035095,120.3284408
+4,R5,前鎮高中,Cianjhen Senior High School,22.58853833,120.3219713
+5,R6,凱旋,Kaisyuan,22.59683914,120.3151478
+6,R7,獅甲,Shihjia,22.60583276,120.307702
+7,R8,三多商圈,Sanduo Shopping District,22.61383541,120.3046764
+8,R9,中央公園,Central Park,22.6245709,120.3006424
+9,R10,美麗島,Formosa Boulevard,22.631386,120.301951
+10,R11,高雄車站,Kaohsiung Main Station,22.63966255,120.3027023
+11,R12,後驛,Houyi,22.64829692,120.3033675
+12,R13,凹子底,Aozaidi,22.65718817,120.3030886
+13,R14,巨蛋,Kaohsiung Arena,22.66657386,120.3028955
+14,R15,生態園區,Ecological District,22.67681026,120.3066935
+15,R16,左營,Zuoying,22.68801596,120.3095473
+16,R17,世運,World Games,22.70217026,120.3025307
+17,R18,油廠國小,Oil Refinery Elementary School,22.70848479,120.3023161
+18,R19,楠梓科技園區,Nanzih Technology Industrial Park,22.71863888,120.3072728
+19,R20,後勁,Houjing,22.72291407,120.3163923
+20,R21,都會公園,Metropolitan Park,22.72932659,120.3210486
+21,R22,青埔,Cingpu,22.74466397,120.3177012
+22,R22A,橋頭糖廠,Ciaotou Sugar Refinery,22.75339067,120.3146113
+23,R23,橋頭火車站,Ciaotou Station,22.76045473,120.310985
+24,R24,岡山高醫,Kaohsiung Medical University Gangshan Hospital,22.78058,120.30165
+25,O1,哈瑪星,Hamasen,22.62154049,120.2745284
+26,O2,鹽埕埔,Yanchengpu,22.62350135,120.2837767
+27,O4,前金,Cianjin,22.62898766,120.2949347
+28,O5,美麗島,Formosa Boulevard,22.631386,120.301951
+29,O6,信義國小,Sinyi Elementary School,22.63073055,120.3116502
+30,O7,文化中心,Cultual Center,22.63039386,120.3174438
+31,O8,五塊厝,Wukuaicuo,22.62952241,120.3277005
+32,O9,苓雅運動園區,Lingya Sports Park,22.62722493,120.3346313
+33,O10,衛武營,Weiwuying,22.62508586,120.3410901
+34,O11,鳳山西站,Fongshan West,22.62530373,120.3483428
+35,O12,鳳山,Fongshan,22.62597715,120.3553595
+36,O13,大東,Dadong,22.62538296,120.3632344
+37,O14,鳳山國中,Fongshan Junior High School,22.6248878,120.3724827
+38,OT1,大寮,Daliao,22.62239218,120.389799
+39,O5/R10,美麗島,Formosa Boulevard,22.631386,120.301951
